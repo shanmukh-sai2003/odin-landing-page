@@ -124,3 +124,36 @@ body {
     float: right;
     margin-top: 30px;
 }
+
+.call-for-action-page {
+    padding: 75px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.call-for-action {
+    background-color: #2882F6;
+    color: #F9FAF8;
+    border-radius: 12px;
+    display: flex;
+    padding: 50px 100px;
+    gap: 100px;
+}
+
+.call-for-action button {
+    background-color: #2882F6;
+    color: #F9FAF8;
+    border: 3px solid #E5E7EB;
+    border-radius: 12px;
+    padding: 5px 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
